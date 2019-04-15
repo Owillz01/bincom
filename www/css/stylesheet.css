@@ -1,0 +1,62 @@
+.profile{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+
+
+}
+
+.info{
+	padding: 40px 0px;	
+	background: #efefef;
+}
+/**{
+	padding:0px;
+	margin: 0px;
+}*/
+
+.container-padding{
+	padding: 80px 40px;
+	/*background-image: linear-gradient(to top right, #b732c9, #f756cf );*/
+	/*padding-top: 40px;*/
+	
+}
+
+.gradient{
+	background-image: linear-gradient(to top right, #b732c9, #f756cf );
+	padding-top: 40px;
+	
+}
+
+h2{
+	color: white;
+	font-weight: bolder;
+	font-size: 40px;
+}
+
+hr {
+	background-image: linear-gradient(to top right, #b732c9, #f756cf );
+	padding: 4px; 
+	width:100px;
+	margin-left: 0px;
+}
+
+.card-bg{
+	background-color: rgba(255, 255, 255, 1);
+	padding: 10px;
+	border-radius: 10px;
+	margin: 10px;
+	overflow: hidden;
+}
+
+.card-bg2{
+	padding: 80px 20px;
+	background-color: white;
+	max-height: auto;
+	/*overflow: auto;
+	overflow-x: hidden;*/
+	
+}
+.box{
+	padding: 80px 40px;
+}
